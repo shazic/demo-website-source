@@ -1,6 +1,6 @@
 ---
 title: "Third Short Story"
-date: 2019-08-18T23:43:45+05:30
+date: 2019-08-18T03:43:46+05:30
 draft: false
 ---
 
