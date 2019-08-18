@@ -1,0 +1,3 @@
+[submodule "site/themes/writer"]
+	path = site/themes/writer
+	url = git@github.com:shazic/writer.git
