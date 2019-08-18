@@ -24,4 +24,4 @@ WORKDIR ${SITE_DIR}
 
 # Automatically build site
 ADD site/ ${SITE_DIR}
-RUN hugo
+
